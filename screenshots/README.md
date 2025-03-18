@@ -52,4 +52,4 @@
 <h1><img src="../.github/assets/img/sidebar-menu.png" /></h1>
 
 **Menu Suspenso** *(Dropdown Menu)*
-<h1><img src="../.github/assets/img/sidebar-menu.png" /></h1>
+<h1><img src="../.github/assets/img/dropdown-menu.png" /></h1>
