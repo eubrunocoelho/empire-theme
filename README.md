@@ -2,6 +2,85 @@
 
 ## **Demonstração**
 * [**Screenshots**](./screenshots/)
+* [**Vídeo**](https://www.youtube.com/watch?v=wmLnkOJrl30)
+
+## **Estrutura**
+```
+Directory structure:
+└── empire-theme/
+    ├── about.html
+    ├── account.html
+    ├── characters.html
+    ├── coins.html
+    ├── downloads.html
+    ├── index.html
+    ├── login.html
+    ├── news.html
+    ├── post.html
+    ├── rankings.html
+    ├── register.html
+    ├── security.html
+    ├── vip.html
+    └── assets/
+        ├── css/
+        ├── img/
+        │   ├── drivers/
+        │   ├── guild/
+        │   ├── icons/
+        │   └── payments/
+        ├── js/
+        │   ├── marquee.js
+        │   ├── scripts.js
+        │   ├── swiper.js
+        │   └── vendor/
+        └── scss/
+            ├── global.scss
+            └── modules/
+                ├── _about.scss
+                ├── _alerts.scss
+                ├── _awards.scss
+                ├── _banner.scss
+                ├── _base.scss
+                ├── _breadcrumbs.scss
+                ├── _buttons.scss
+                ├── _cards.scss
+                ├── _castle.scss
+                ├── _characters.scss
+                ├── _column.scss
+                ├── _commands.scss
+                ├── _content.scss
+                ├── _downloads.scss
+                ├── _drivers.scss
+                ├── _event.scss
+                ├── _evolution.scss
+                ├── _footer.scss
+                ├── _form.scss
+                ├── _header.scss
+                ├── _heading.scss
+                ├── _icons.scss
+                ├── _info.scss
+                ├── _login.scss
+                ├── _main.scss
+                ├── _marquee.scss
+                ├── _modifiers.scss
+                ├── _news.scss
+                ├── _package.scss
+                ├── _pagination.scss
+                ├── _payments.scss
+                ├── _post.scss
+                ├── _preloader.scss
+                ├── _ranking.scss
+                ├── _rankings.scss
+                ├── _register.scss
+                ├── _reset.scss
+                ├── _security.scss
+                ├── _sidebar.scss
+                ├── _status.scss
+                ├── _summary.scss
+                ├── _table.scss
+                ├── _variables.scss
+                └── _window.scss
+```
 
 <p><i>Para adquirir entre em <a href="#contato">contato</a>.</i></p>
 <hr />
