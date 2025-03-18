@@ -1,5 +1,8 @@
 # Empire Theme - MU Online Theme
 
+## **Demonstração**
+* [**Screenshots**](./screenshots/)
+
 <p><i>Para adquirir entre em <a href="#contato">contato</a>.</i></p>
 <hr />
 
@@ -12,7 +15,7 @@
 * **Home**
     * Cabeçalho
     * Banner
-    * Letreiro
+    * Letreiro (Marquee)
     * Columa Esquerda
         * Estatística
         * Resumo
@@ -115,6 +118,7 @@
     * Conteúdo de Notícia
     * Rodapé
 * **Componentes**
+    * Preloader
     * Menu Lateral
         * Menu Recolhível (Collapsible)
     * Menu do Cabeçalho
@@ -147,6 +151,7 @@
 * [**Github**](https://github.com/)
 * [**Vercel**](https://vercel.com/)
 
+<span id="contato"></span>
 ## **Contato**
 * **E-mail:**
     * *eu.brunocoelho94@gmail.com*
