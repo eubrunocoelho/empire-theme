@@ -1,6 +1,20 @@
 # Empire Theme - MU Online Theme
 
 ## **Screenshots**
+* [**Home**](#home)
+* [**Informações**](#informações)
+* [**Downloads**](#downloads)
+* [**Rankings**](#rankings)
+* [**Cadastrar**](#cadastrar)
+* [**Login**](#login)
+* [**Minha Conta**](#minha-conta)
+* [**Personagens**](#personagens)
+* [**Coins**](#coins)
+* [**VIP**](#vip)
+* [**Segurança**](#segurança)
+* [**Notícias**](#notícias)
+* [**Notícia**](#notícia)
+* [**Componentes**](#componentes)
 
 ### **Home**
 <h1><img src="../.github/assets/img/home-desktop.png" /></h1>
